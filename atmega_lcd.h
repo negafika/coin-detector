@@ -2,7 +2,7 @@
  * atmega_lcd.h
  *
  * Created: 12/7/2019 5:32:40 AM
- * Author : 
+ * Author : Negaye Fikadu
  */ 
 
 
